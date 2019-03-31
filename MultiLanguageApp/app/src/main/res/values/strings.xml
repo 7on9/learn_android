@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MultiLanguageApp</string>
+    <string name="loginTitle">Login!</string>
+    <string name="username">Username</string>
+    <string name="hintUsername">Type username</string>
+    <string name="password">Password</string>
+    <string name="hintPassword">Type Password</string>
+    <string name="login">Login</string>
+    <string name="exit">Exit</string>
+</resources>
